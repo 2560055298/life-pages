@@ -1,0 +1,4 @@
+3ad9f87b7ae2261508b9f1adb3dec08ba0e0a4bdf8ff5067ec3f5d11e7b8f0ca  平生素记-iOS.ipa
+c1f0fd834bb977a3b5c722297325d2111b7ecb4fbff82ce36750f726d9a73bf4  平生素记-macOS-arm64.dmg
+3a648b40d0446ceb24232a7244afe14ebb50ca82e1f002e5f3bbbd52ecf22d08  平生素记-windows-x64.zip
+3ca5db71f8e252d43eed459a742b71cdc9a4477abe5c656ff6254d6b5a348b23  平生素记.apk
