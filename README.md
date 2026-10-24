@@ -119,10 +119,3 @@ Get-FileHash .\平生素记-windows-x64.zip -Algorithm SHA256
 
 历史版本见 [Tags](https://github.com/2560055298/life-pages/tags)。
 
-<div align="center">
-
-<img src="./assets/hedgehog.png" width="72" alt="" />
-
-<sub>Life Pages · 把一生写成一本书</sub>
-
-</div>
