@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/hedgehog.png" width="220" alt="Life Pages 刺猬" />
+<img src="./assets/hedgehog.png" width="220" alt="Lifetime Note 刺猬" />
 
-# Life Pages · 平生素记
+# Lifetime Note · 平生素记
 
 **一个人的一生，是一本书。**
 
@@ -36,7 +36,7 @@
 
 ## 这是什么
 
-Life Pages 是一本只属于自己的日记。
+Lifetime Note 是一本只属于自己的日记。
 
 - **只存本地**：日记、图片和设置都保存在自己的设备里。
 - **加密保存**：正文与图片以密文形式存储，口令错误无法打开。
